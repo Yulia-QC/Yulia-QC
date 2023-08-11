@@ -36,7 +36,7 @@ public class LoginTests {
         MyAccountPage myAccountPage = new MyAccountPage(driver);
         myAccountPage.verifyMainText();
 
-        driver.quit();
+//        driver.quit();
 
 
     }
